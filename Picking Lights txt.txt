@@ -1,0 +1,44 @@
+Kitting Picking Lights
+
+Arduino NANO
+
+barcode SLOC => PC => arduino => resistor => LED 
+
+LED will go on or off based off arduino code
+
+
+DONE:
+
+> Learn arduino
+
+> build first schematic
+
+> Buttons
+
+
+
+FOR HANDOFF:
+
+> Implement barcodes with SLOCs (thru SAP, handoff bc I have no access)
+
+> Make barcodes to scan?
+
+> Wireless arduino/python?
+
+
+
+Q's for JAX:
+
+> Was the pick-to-light system created in MDT or contracted out?
+
+> What did the integration of the system look like (placing lights, integration into inventory system, how long did it take, etc)
+
+> Integration with SAP?
+
+> Cost?
+
+> Effectiveness?
+
+> How does it work with multiple orders? With multiple pickers?
+
+> Recommendations
