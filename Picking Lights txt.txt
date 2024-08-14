@@ -2,16 +2,13 @@ Kitting Picking Lights
 
 Arduino NANO
 
-barcode SLOC => PC => arduino => resistor => LED 
-
-LED will go on or off based off arduino code
 
 
 DONE:
 
-> Learn arduino
+> Arduino
 
-> build first schematic
+> schematic
 
 > Buttons
 
